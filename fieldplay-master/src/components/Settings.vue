@@ -13,7 +13,7 @@
       <div class='title'>设置<a class='reset-all' href='?' title='set default settings'>恢复默认</a> </div>
 	  
       <div class='row'>
-        <div class='col'>节点颜色</div>
+        <div class='col'>节点颜色吧</div>
         <div class='col'> 
           <select v-model='selectedColorMode' @change='changeColor'>
               <option value='1'>red</option>
